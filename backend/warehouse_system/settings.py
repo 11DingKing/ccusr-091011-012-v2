@@ -17,6 +17,7 @@ INSTALLED_APPS = [
     "apps.warehouse",
     "apps.personnel",
     "apps.reports",
+    "apps.documents",
 ]
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
